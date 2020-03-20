@@ -1,0 +1,200 @@
+﻿body {
+    margin:0px;
+}
+
+html {
+    height: 100%;
+    background-color: red;
+    background-image: linear-gradient(to bottom right, #d4eaff, #c75403);
+}
+
+#form1
+{
+    height:100%;
+}
+
+.mainDIV {
+    width: 940px;
+    height: 510px;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 5px 10px #888888;
+}
+
+.welcomeText {
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+    font-size: 24pt;
+    font-variant: small-caps;
+    margin-bottom: 20px;
+}
+
+.loginFormTextbox input {
+    padding: 5px 0px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.loginForm {
+    width:300px;
+    padding:75px 20px 25px 20px;
+}
+
+.loginFormLabel {
+    text-align: left;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14pt;
+    font-variant: small-caps;
+    margin-top: 20px;
+}
+
+
+.loginFormTitle {
+    text-align: left;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 16pt;
+    padding-bottom: 42px;
+    text-decoration:underline;
+    font-variant:small-caps;
+}
+
+.loginFormBackgound {
+    width: 300px;
+    background-color: #c75403;
+    vertical-align:top;
+}
+
+.loginFormButtons
+{
+    padding:95px 0px 20px 0px;
+}
+
+
+.loginFormHyperlink
+{
+    color:#0005ff;
+    font-size:14pt;
+    font-variant:small-caps;
+    font-weight:bold;
+    text-decoration:underline;
+    cursor:pointer;
+}
+
+.loginFormSignIn {
+    font-size: 14pt;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-decoration: underline;
+    float: right;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #d4eaff;
+}
+
+.loginFormResponse {
+    font-size: 16pt;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+
+.registerFormBackground {
+    vertical-align: top;
+    background-color: #d4eaff;
+}
+
+.registerForm
+{
+    padding:20px;
+}
+
+
+.registerFormTitle {
+    text-align: left;
+    font-weight: bold;
+    font-size: 16pt;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-variant: small-caps;
+}
+
+.registerFormDetails
+{
+    font-size:14pt;
+}
+
+.registerFormMandatoryDetails {
+    font-size: 14pt;
+    padding-top:15px;
+    font-weight:bold;
+    color: #ff0000
+}
+
+.registerFormResponse {
+    font-size: 14pt;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+
+.registerFormTextbox input {
+    padding: 5px 0px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+
+.registerFormLabel {
+    text-align: left;
+    color: #000000;
+    font-weight: bold;
+    font-size: 14pt;
+    font-variant: small-caps;
+    margin-top:15px;
+}
+
+.registerFormButtons {
+    padding: 20px 0px;
+}
+
+.registerBtn {
+    font-size: 14pt;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-decoration: underline;
+    float: right;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #c75403;
+    color: #ffffff;
+}
+
+.recoverPasswordTextbox {
+    padding: 10px 0px;
+}
+
+.recoverPasswordTextbox input {
+    padding: 5px 0px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.recoverPasswordButtons {
+    padding: 20px 0px;
+}
+
+.sendBtn {
+    font-size: 14pt;
+    font-variant: small-caps;
+    font-weight: bold;
+    text-decoration: underline;
+    float: right;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #c75403;
+    color: #ffffff;
+}
